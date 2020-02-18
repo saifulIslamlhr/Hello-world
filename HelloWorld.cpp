@@ -1,2 +1,2 @@
 Hello everyone.
-I like to program and I use cdm sometimes to do things faster.
+I like to program and I use cmd sometimes to do things faster.
